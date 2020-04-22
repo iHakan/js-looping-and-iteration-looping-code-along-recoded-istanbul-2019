@@ -12,10 +12,10 @@ return arr;
 }
 
 
-let intNumber = 10;
-function countDown(intNumber){
+// let intNumber = 10;
+// function countDown(intNumber){
   
-  while (intNumber >= 0){
+//   while (intNumber >= 0){
 
 function countDown(intNumber){
   let intNumber = 10;
